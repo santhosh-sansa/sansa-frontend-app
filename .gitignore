@@ -1,0 +1,8 @@
+﻿node_modules/
+.next/
+*.node
+*.pack
+*.log
+.env.local
+build-*.txt
+.DS_Store
